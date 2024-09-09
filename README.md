@@ -1,6 +1,5 @@
-# CD2201 Módulo Interdisciplinario, Otoño 2024
+# CD2201 Módulo Interdisciplinario, Primavera 2024
 ## Modelación sistémica en cambio climático y resiliencia: el sistema Tierra
 
-#### *Profesor:* Axel Osses
-#### *Auxiliar:* Diego Olguín
-#### *Profesoras invitadas:* Laura Gallardo y Anahí Urquiza.
+#### *Profesor:* Laura Gallardo, Axel Osses y Anahí Urquiza
+#### *Auxiliares:* Antonia Garrote y Diego Olguín.
